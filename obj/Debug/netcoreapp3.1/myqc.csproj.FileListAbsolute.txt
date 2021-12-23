@@ -1,0 +1,13 @@
+E:\Gdata\myqc\obj\Debug\netcoreapp3.1\myqc.csprojAssemblyReference.cache
+E:\Gdata\myqc\obj\Debug\netcoreapp3.1\myqc.AssemblyInfoInputs.cache
+E:\Gdata\myqc\obj\Debug\netcoreapp3.1\myqc.AssemblyInfo.cs
+E:\Gdata\myqc\obj\Debug\netcoreapp3.1\myqc.csproj.CoreCompileInputs.cache
+E:\Gdata\myqc\bin\Debug\netcoreapp3.1\myqc.exe
+E:\Gdata\myqc\bin\Debug\netcoreapp3.1\myqc.deps.json
+E:\Gdata\myqc\bin\Debug\netcoreapp3.1\myqc.runtimeconfig.json
+E:\Gdata\myqc\bin\Debug\netcoreapp3.1\myqc.runtimeconfig.dev.json
+E:\Gdata\myqc\bin\Debug\netcoreapp3.1\myqc.dll
+E:\Gdata\myqc\bin\Debug\netcoreapp3.1\myqc.pdb
+E:\Gdata\myqc\obj\Debug\netcoreapp3.1\myqc.dll
+E:\Gdata\myqc\obj\Debug\netcoreapp3.1\myqc.pdb
+E:\Gdata\myqc\obj\Debug\netcoreapp3.1\myqc.genruntimeconfig.cache

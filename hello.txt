@@ -1,0 +1,8 @@
+編譯:
+dotnet new console
+
+重編:
+dotnet restore 
+
+執行成果:
+dotnet run
